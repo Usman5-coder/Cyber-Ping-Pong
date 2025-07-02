@@ -41,7 +41,7 @@ The game loop is built using `requestAnimationFrame` for buttery-smooth movement
 
 ## 🚀 Live Demo
 
-🔗 [Play Cyber Pong Now]()
+🔗 [Play Cyber Pong Now](https://cyber-ping-pong.vercel.app/)
 
 ---
 
